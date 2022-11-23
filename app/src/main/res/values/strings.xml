@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppWithFrags</string>
+    <string name="open_second_screen_title">Взглянуть на пивной гламур</string>
+
+</resources>
